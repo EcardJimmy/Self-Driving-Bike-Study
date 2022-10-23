@@ -11,7 +11,7 @@ Dymola/Modelica](https://people.inf.ethz.ch/fcellier/MS/schmitt_ms.pdf)
 
 - [Motorcycle Dynamics Library in Modelica](https://modelica.org/events/modelica2006/Proceedings/sessions/Session2b2.pdf)
 
-- [手把手教你做一辆mini平衡自行车](https://www.eet-china.com/mp/a63913.html)
+- [手把手教你做一輛mini平衡自行車](https://www.eet-china.com/mp/a63913.html)
 
 - [Self balancing bicycle](https://www.youtube.com/watch?v=UzjqdoTVhOU)
 
@@ -33,7 +33,7 @@ Using Object Oriented Approach with Modelica ](http://marjan.fesb.hr/~jmusic/jos
 
 - [Arduino 教學 CH03-04 HC-SR04 超音波測距模組](https://www.youtube.com/watch?v=PpCpaMx36Fk)
 
-- [《Arduino入门》NANO 08：LCD1602 液晶显示器](https://www.youtube.com/watch?v=QsBYpf-oGLs)
+- [《Arduino入門》NANO 08：LCD1602 液晶顯示器](https://www.youtube.com/watch?v=QsBYpf-oGLs)
 
 - [MPU6050 with Raspberry Pi](https://www.youtube.com/watch?v=JTFa5l7zAA4&t=242s)
 
