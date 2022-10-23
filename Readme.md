@@ -17,7 +17,7 @@ Dymola/Modelica](https://people.inf.ethz.ch/fcellier/MS/schmitt_ms.pdf)
 
 - [Reaction-Wheel-Bike](https://github.com/remrc/Reaction-Wheel-Bike)
 
--[Design and Control of a Self-balancing Bicycle Using an Electric Linear Actuator](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/148871/MastersThesis_FinalDraft%20(3).pdf?sequence=1)
+- [Design and Control of a Self-balancing Bicycle Using an Electric Linear Actuator](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/148871/MastersThesis_FinalDraft%20(3).pdf?sequence=1)
 
 - [Modeling Control and Automatic Code Generation for a Two-Wheeled Self-Balancing Vehicle Using Modelica](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8847398&fileOId=8859286)
 
