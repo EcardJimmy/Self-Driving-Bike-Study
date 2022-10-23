@@ -19,15 +19,11 @@ Dymola/Modelica](https://people.inf.ethz.ch/fcellier/MS/schmitt_ms.pdf)
 
 -[Design and Control of a Self-balancing Bicycle Using an Electric Linear Actuator](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/148871/MastersThesis_FinalDraft%20(3).pdf?sequence=1)
 
-- [Modeling, Control and Automatic
-Code Generation for a Two-Wheeled
-Self-Balancing Vehicle Using Modelica 
-](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8847398&fileOId=8859286)
+- [Modeling Control and Automatic Code Generation for a Two-Wheeled Self-Balancing Vehicle Using Modelica](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8847398&fileOId=8859286)
 
 - [Arduino與兩種陀螺儀的使用兼談濾波函式](https://www.youtube.com/watch?v=6lUjqTwy6cA)
 
-- [Modeling, Simulation and Control of Inverted Pendulum on a Chart
-Using Object Oriented Approach with Modelica ](http://marjan.fesb.hr/~jmusic/josip_files/dymola_clanak_music.pdf)
+- [Modeling Simulation and Control of Inverted Pendulum on a Chart Using Object Oriented Approach with Modelica](http://marjan.fesb.hr/~jmusic/josip_files/dymola_clanak_music.pdf)
 
 - [STM32系列介紹](https://ithelp.ithome.com.tw/articles/10235889)
 
