@@ -37,9 +37,7 @@ Using Object Oriented Approach with Modelica ](http://marjan.fesb.hr/~jmusic/jos
 
 - [MPU6050 with Raspberry Pi](https://www.youtube.com/watch?v=JTFa5l7zAA4&t=242s)
 
-- [Run TensorFlow Lite on Raspberry Pi for Object Detection](https://www.youtube.com/watch?v=aimSGO倒立擺是什麼？有哪些用途？附PID算法那實現代碼
-
-原文網址：https://kknews.cc/tech/y5pm58n.htmlAUI8Y)
+- [Run TensorFlow Lite on Raspberry Pi for Object Detection](https://www.youtube.com/watch?v=aimSGO倒立擺是什麼？有哪些用途？附PID算法那實現代碼)
 
 - [倒立擺是什麼？附PID算法](https://kknews.cc/zh-tw/tech/y5pm58n.html)
 
