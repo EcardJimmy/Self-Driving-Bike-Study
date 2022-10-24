@@ -2,6 +2,7 @@
 ###### tags: `Inverted Pendulum` `Angular Momentum` `PID Control` `STM32` `Arduino` `Respberry Pi` `MPU6050`  
 
 ## References
+- [Active Gyroscope Balances](https://www.youtube.com/watch?v=UVJx8T8wTQA)
 - [Self-Driving Cars - Lecture](https://www.youtube.com/watch?v=ipay3o2kBoU&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
 
 - [Modeling of a Motorcycle in
@@ -46,3 +47,5 @@ Dymola/Modelica](https://people.inf.ethz.ch/fcellier/MS/schmitt_ms.pdf)
 - [Pendulum on cart system](https://www.youtube.com/watch?v=c3z4eo6s0Ek)
 
 - [ROS教學 可視化以及模擬](https://www.youtube.com/watch?v=wHsZ4bMAZDI)
+
+- [千年陀螺之謎](https://www.youtube.com/watch?v=9GHkSuQ97WA)
