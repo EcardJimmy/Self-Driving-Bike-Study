@@ -1,13 +1,13 @@
 # Self Drinving Bike Study
 ###### tags: `Inverted Pendulum` `Angular Momentum` `PID Control` `STM32` `Arduino` `Respberry Pi` `MPU6050`  
 ##
-$ I_t{\ddot{\theta}}+I_2{\ddot{\phi}} =(m_1 l_1+m_2 l_2)g \sin ({\theta}) \cdots \cdots(1) $
+$$ I_t{\ddot{\theta}}+I_2{\ddot{\phi}} =(m_1 l_1+m_2 l_2)g \sin ({\theta}) \cdots \cdots(1) $$
 
-$ I_2{\ddot{\theta}}+I_2{\ddot{\phi}}=\tau_m \cdots\cdots\cdots\cdots\cdots\cdots\cdots\cdots\cdots (2) $
+$$ I_2{\ddot{\theta}}+I_2{\ddot{\phi}}=\tau_m \cdots\cdots\cdots\cdots\cdots\cdots\cdots\cdots\cdots (2) $$
 
 <br>
 
-$ I_t=(m_1 l{_1^2}+m_2 l{_2^2}+I_1+I_2) $
+$$ I_t=(m_1 l{_1^2}+m_2 l{_2^2}+I_1+I_2) $$
 
 ```flowchart LR
     id1([This is the text in the box])
