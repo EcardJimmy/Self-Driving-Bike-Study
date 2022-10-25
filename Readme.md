@@ -10,11 +10,17 @@ $$ I_2{\ddot{\theta}}+I_2{\ddot{\phi}}=\tau_m \cdots\cdots\cdots\cdots\cdots\cdo
 $$ I_t=(m_1 l{_1^2}+m_2 l{_2^2}+I_1+I_2) $$
 
 $\tau_m$ : Torque of the DC motor
+
 $l_1$ : Distance to the center of body
+
 $l_2$ : Distance to the center of wheel
+
 $m_1$ : Mass at the center of body
+
 $m_2$ : Mass at the center of wheel
+
 $I_1$ : Rotational inertia at the center of body
+
 $I_2$ : Rotational inertia at the center of wheel
 
 ## References
