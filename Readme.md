@@ -1,31 +1,58 @@
 # Self Drinving Bike Study
 ###### tags: `Inverted Pendulum` `Angular Momentum` `PID Control` `STM32` `Arduino` `Respberry Pi` `MPU6050`  
-##
-$$ I_t{\ddot{\theta}}+I_2{\ddot{\phi}} =(m_1 l_1+m_2 l_2)g \sin ({\theta}) \cdots \cdots(1) $$
-
-$$ I_2{\ddot{\theta}}+I_2{\ddot{\phi}}=\tau_m \cdots\cdots\cdots\cdots\cdots\cdots\cdots\cdots\cdots (2) $$
+## Equations
+**Angular Momentum**
+$L=I\omega$
+$\tau=r\times F$
+$\tau={dL/dt}$
 
 <br>
 
-$$ I_t=(m_1 l{_1^2}+m_2 l{_2^2}+I_1+I_2) $$
+$L$ : Angular Momentum
+$I$ : Inertia 
+$F$ : Force
+$\omega$ : Angular Speed
+
+**Centrifugal Force**
+$F=m\frac{v^2}{r}$
+<br>
+$F$ : Centrifugal Force
+$v$ : 物體的線速度 
+$r$ : 旋轉半徑 
+
+**自行車力矩**
+<img src="./Images/Equ_1.png" alt="drawing" width="400"/>
+$I_t{\ddot{\theta}}+I_2{\ddot{\phi}} =(m_1 l_1+m_2 l_2)g \sin ({\theta}) \cdots \cdots(1)$
+
+$I_2{\ddot{\theta}}+I_2{\ddot{\phi}}=\tau_m \cdots\cdots\cdots\cdots\cdots\cdots\cdots\cdots\cdots (2)$
+
+<br>
+
+$I_t=(m_1 l{_1^2}+m_2 l{_2^2}+I_1+I_2)$
+
+<br>
 
 $\tau_m$ : Torque of the DC motor
-
 $l_1$ : Distance to the center of body
-
 $l_2$ : Distance to the center of wheel
-
 $m_1$ : Mass at the center of body
-
 $m_2$ : Mass at the center of wheel
-
 $I_1$ : Rotational inertia at the center of body
-
 $I_2$ : Rotational inertia at the center of wheel
+
+**自行車離心力**
+<img src="./Images/Equ_2.png" alt="drawing" width="400"/>
+$F_g.x=F_c.y$
+$\sin\left(\phi\right)=\frac{F_g}{F_c}$
+$\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 
 ## References
 - [Balancing Motorcycle](https://www.youtube.com/watch?v=SUVtObDFFWY&list=RDLV0312BNqIBFI&index=8)
+
+- [Modeling of a Motorcycle in Dymola/Modelica](https://people.inf.ethz.ch/fcellier/MS/schmitt_ms.pdf)
+
 - [Active Gyroscope Balances](https://www.youtube.com/watch?v=UVJx8T8wTQA)
+
 - [Self-Driving Cars - Lecture](https://www.youtube.com/watch?v=ipay3o2kBoU&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
 
 - [Modeling of a Motorcycle in
