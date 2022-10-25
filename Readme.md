@@ -9,7 +9,7 @@ $$ I_2{\ddot{\theta}}+I_2{\ddot{\phi}}=\tau_m \cdots\cdots\cdots\cdots\cdots\cdo
 
 $$ I_t=(m_1 l{_1^2}+m_2 l{_2^2}+I_1+I_2) $$
 
-$$ \tau_m $$ : 馬達扭矩
+$\tau_m$ : 馬達扭矩
 
 ## References
 - [Balancing Motorcycle](https://www.youtube.com/watch?v=SUVtObDFFWY&list=RDLV0312BNqIBFI&index=8)
