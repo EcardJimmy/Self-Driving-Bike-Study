@@ -39,8 +39,6 @@ $I_t{\ddot{\theta}}+I_2{\ddot{\phi}} =(m_1 l_1+m_2 l_2)g \sin ({\theta}) \cdots 
 
 $I_2{\ddot{\theta}}+I_2{\ddot{\phi}}=\tau_m \cdots\cdots\cdots\cdots\cdots\cdots\cdots\cdots\cdots (2)$
 
-<br>
-
 $I_t=(m_1 l{_1^2}+m_2 l{_2^2}+I_1+I_2)$
 
 <br>
@@ -63,14 +61,12 @@ $I_2$ : Rotational inertia at the center of wheel
 
 <img src="./Images/EQU_2.png" alt="drawing" width="400"/>
 
-$F_g.x=F_c.y$
-
 $\sin\left(\phi\right)=\frac{F_g}{F_c}$
 
 $\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 
 ## References
-
+- [self balancing robot | Simulink basics series](https://www.youtube.com/watch?v=QtmVFlZi5T8)
 - [Balancing Motorcycle](https://www.youtube.com/watch?v=SUVtObDFFWY&list=RDLV0312BNqIBFI&index=8)
 
 - [Modeling of a Motorcycle in Dymola/Modelica](https://people.inf.ethz.ch/fcellier/MS/schmitt_ms.pdf)
