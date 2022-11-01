@@ -87,10 +87,6 @@ $\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 - [Balancing Motorcycle](https://www.youtube.com/watch?v=SUVtObDFFWY&list=RDLV0312BNqIBFI&index=8)
 - [Active Gyroscope Balances](https://www.youtube.com/watch?v=UVJx8T8wTQA)
 - [Self-Driving Cars - Lecture](https://www.youtube.com/watch?v=ipay3o2kBoU&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
-- [Modeling of a Motorcycle in
-Dymola/Modelica](https://people.inf.ethz.ch/fcellier/MS/schmitt_ms.pdf)
-- [Motorcycle Dynamics Library](https://build.openmodelica.org/Documentation/MotorcycleDynamics.html)
-- [Motorcycle Dynamics Library in Modelica](https://modelica.org/events/modelica2006/Proceedings/sessions/Session2b2.pdf)
 - [手把手教你做一輛mini平衡自行車](https://www.eet-china.com/mp/a63913.html)
 - [Self balancing bicycle](https://www.youtube.com/watch?v=UzjqdoTVhOU)
 - [Reaction-Wheel-Bike](https://github.com/remrc/Reaction-Wheel-Bike)
@@ -115,3 +111,7 @@ Dymola/Modelica](https://people.inf.ethz.ch/fcellier/MS/schmitt_ms.pdf)
 - [Modeling Control and Automatic Code Generation for a Two-Wheeled Self-Balancing Vehicle Using Modelica](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8847398&fileOId=8859286)
 - [Modeling Simulation and Control of Inverted Pendulum on a Chart Using Object Oriented Approach with Modelica](http://marjan.fesb.hr/~jmusic/josip_files/dymola_clanak_music.pdf)
 - [Presentation-MPC36](https://www.youtube.com/watch?v=wLS1dd5TUk8)
+- [Modeling of a Motorcycle in
+Dymola/Modelica](https://people.inf.ethz.ch/fcellier/MS/schmitt_ms.pdf)
+- [Motorcycle Dynamics Library](https://build.openmodelica.org/Documentation/MotorcycleDynamics.html)
+- [Motorcycle Dynamics Library in Modelica](https://modelica.org/events/modelica2006/Proceedings/sessions/Session2b2.pdf)
