@@ -87,7 +87,6 @@ $\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 - [從Arduino LCD上的VL53L1X距離傳感器顯示距離](https://www.youtube.com/watch?v=Lt-Zhm_XY38)
 - [Balancing Motorcycle](https://www.youtube.com/watch?v=SUVtObDFFWY&list=RDLV0312BNqIBFI&index=8)
 - [Active Gyroscope Balances](https://www.youtube.com/watch?v=UVJx8T8wTQA)
-- [Self-Driving Cars - Lecture](https://www.youtube.com/watch?v=ipay3o2kBoU&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
 - [手把手教你做一輛mini平衡自行車](https://www.eet-china.com/mp/a63913.html)
 - [Self balancing bicycle](https://www.youtube.com/watch?v=UzjqdoTVhOU)
 - [Reaction-Wheel-Bike](https://github.com/remrc/Reaction-Wheel-Bike)
@@ -99,15 +98,19 @@ $\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 - [MPU6050 with Raspberry Pi](https://www.youtube.com/watch?v=JTFa5l7zAA4&t=242s)
 - [Run TensorFlow Lite on Raspberry Pi for Object Detection](https://www.youtube.com/watch?v=aimSGO倒立擺是什麼？有哪些用途？附PID算法那實現代碼)
 - [倒立擺是什麼？附PID算法](https://kknews.cc/zh-tw/tech/y5pm58n.html)
-
 - [維基百科-倒單擺](https://zh.m.wikipedia.org/zh-hant/%E5%80%92%E5%96%AE%E6%93%BA)
 - [Lecture - Inverted Pendulum Explanation](https://www.youtube.com/watch?v=OB3ufWYpj-I&list=PLjOmIBPtRZG_ybJMywubA98TfQDGleDtF)
 - [Pendulum on cart system](https://www.youtube.com/watch?v=c3z4eo6s0Ek)
 - [千年陀螺之謎](https://www.youtube.com/watch?v=9GHkSuQ97WA)
+
+
 - [FreeCAD](https://www.youtube.com/watch?v=u8otDF_C_fw)
 - [KiCad EDA](https://www.kicad.org/)
 - [ROS教學 可視化以及模擬](https://www.youtube.com/watch?v=wHsZ4bMAZDI)
 - [Openmodelica](https://www.youtube.com/watch?v=SW5Eclf1tRs)
+
+
+- [Self-Driving Cars - Lecture](https://www.youtube.com/watch?v=ipay3o2kBoU&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
 - [Modeling of a Motorcycle in Dymola/Modelica](https://people.inf.ethz.ch/fcellier/MS/schmitt_ms.pdf)
 - [Modeling Control and Automatic Code Generation for a Two-Wheeled Self-Balancing Vehicle Using Modelica](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8847398&fileOId=8859286)
 - [Modeling Simulation and Control of Inverted Pendulum on a Chart Using Object Oriented Approach with Modelica](http://marjan.fesb.hr/~jmusic/josip_files/dymola_clanak_music.pdf)
