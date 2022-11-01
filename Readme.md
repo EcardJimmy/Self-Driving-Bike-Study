@@ -83,6 +83,7 @@ $\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 ## References
 - [self balancing robot | Simulink basics series](https://www.youtube.com/watch?v=QtmVFlZi5T8)
 - [How Brushless Motor and ESC Work and How To Control them using Arduino](https://www.youtube.com/watch?v=uOQk8SJso6Q)
+- [Arduino-FOC-reaction-wheel-inverted-pendulum](https://github.com/simplefoc/Arduino-FOC-reaction-wheel-inverted-pendulum)
 - [從Arduino LCD上的VL53L1X距離傳感器顯示距離](https://www.youtube.com/watch?v=Lt-Zhm_XY38)
 - [Balancing Motorcycle](https://www.youtube.com/watch?v=SUVtObDFFWY&list=RDLV0312BNqIBFI&index=8)
 - [Active Gyroscope Balances](https://www.youtube.com/watch?v=UVJx8T8wTQA)
