@@ -105,7 +105,7 @@ $\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 
 
 - [FreeCAD](https://www.youtube.com/watch?v=u8otDF_C_fw)
-- [KiCad EDA](https://www.kicad.org/)
+- [KiCad EDA](https://www.youtube.com/watch?v=s7wFSqzG7E0)
 - [ROS教學 可視化以及模擬](https://www.youtube.com/watch?v=wHsZ4bMAZDI)
 - [Openmodelica](https://www.youtube.com/watch?v=SW5Eclf1tRs)
 
