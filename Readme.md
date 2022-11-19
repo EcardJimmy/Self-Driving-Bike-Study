@@ -81,6 +81,7 @@ $\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 
 
 ## References
+- [Gyroscopic Precession and Gyroscopes](https://youtu.be/HmmbOVfHqcg)
 - [self balancing robot | Simulink basics series](https://www.youtube.com/watch?v=QtmVFlZi5T8)
 - [How Brushless Motor and ESC Work and How To Control them using Arduino](https://www.youtube.com/watch?v=uOQk8SJso6Q)
 - [Arduino-FOC-reaction-wheel-inverted-pendulum](https://github.com/simplefoc/Arduino-FOC-reaction-wheel-inverted-pendulum)
@@ -105,7 +106,8 @@ $\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 
 
 - [FreeCAD](https://www.youtube.com/watch?v=u8otDF_C_fw)
-- [KiCad EDA](https://www.youtube.com/watch?v=s7wFSqzG7E0)
+- [KiCad EDA_1](https://www.youtube.com/watch?v=s7wFSqzG7E0)
+- [KiCad EDA_2](https://www.youtube.com/watch?v=lC08eXyXSLU)
 - [ROS教學 可視化以及模擬](https://www.youtube.com/watch?v=wHsZ4bMAZDI)
 - [Openmodelica](https://www.youtube.com/watch?v=SW5Eclf1tRs)
 
