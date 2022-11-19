@@ -68,8 +68,9 @@ $\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 ## 需了解事項
 - 反單擺
 - 角動量
-- 陀螺儀
+- 陀螺儀效應
 - MPU6050 或 MPU9250:加速度陀螺儀晶片
+- VL53L1X距離傳感器
 - STM32
 - Arduino
 - Respberry Pi
@@ -77,12 +78,13 @@ $\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 - PWM(Pulse-width modulation)
 - 磁場導向控制（field-oriented control，簡稱FOC）
 - PID Controller
-- VL53L1X距離傳感器
 
 
 ## References
-- [Arduino-FOC-reaction-wheel-inverted-pendulum](https://github.com/simplefoc/)
+- [Gyroscopic Precession and Gyroscopes](https://youtu.be/HmmbOVfHqcg)
+- [self balancing robot | Simulink basics series](https://www.youtube.com/watch?v=QtmVFlZi5T8)
 - [How Brushless Motor and ESC Work and How To Control them using Arduino](https://www.youtube.com/watch?v=uOQk8SJso6Q)
+- [Arduino-FOC-reaction-wheel-inverted-pendulum](https://github.com/simplefoc/Arduino-FOC-reaction-wheel-inverted-pendulum)
 - [從Arduino LCD上的VL53L1X距離傳感器顯示距離](https://www.youtube.com/watch?v=Lt-Zhm_XY38)
 - [Balancing Motorcycle](https://www.youtube.com/watch?v=SUVtObDFFWY&list=RDLV0312BNqIBFI&index=8)
 - [Active Gyroscope Balances](https://www.youtube.com/watch?v=UVJx8T8wTQA)
@@ -101,17 +103,15 @@ $\phi=\arcsin (\frac{F_g}{F_c})=\arcsin (\frac{v^2}{r.g}) $
 - [Lecture - Inverted Pendulum Explanation](https://www.youtube.com/watch?v=OB3ufWYpj-I&list=PLjOmIBPtRZG_ybJMywubA98TfQDGleDtF)
 - [Pendulum on cart system](https://www.youtube.com/watch?v=c3z4eo6s0Ek)
 - [千年陀螺之謎](https://www.youtube.com/watch?v=9GHkSuQ97WA)
-- [Gyroscopic Precession and Gyroscopes](https://youtu.be/HmmbOVfHqcg)
 
-## Tools
+
 - [FreeCAD](https://www.youtube.com/watch?v=u8otDF_C_fw)
 - [KiCad EDA_1](https://www.youtube.com/watch?v=s7wFSqzG7E0)
 - [KiCad EDA_2](https://www.youtube.com/watch?v=lC08eXyXSLU)
 - [ROS教學 可視化以及模擬](https://www.youtube.com/watch?v=wHsZ4bMAZDI)
 - [Openmodelica](https://www.youtube.com/watch?v=SW5Eclf1tRs)
 
-## System Engineering
-- [self balancing robot | Simulink basics series](https://www.youtube.com/watch?v=QtmVFlZi5T8)
+
 - [Self-Driving Cars - Lecture](https://www.youtube.com/watch?v=ipay3o2kBoU&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
 - [Modeling of a Motorcycle in Dymola/Modelica](https://people.inf.ethz.ch/fcellier/MS/schmitt_ms.pdf)
 - [Modeling Control and Automatic Code Generation for a Two-Wheeled Self-Balancing Vehicle Using Modelica](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8847398&fileOId=8859286)
